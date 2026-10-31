@@ -8,7 +8,7 @@
 /* ================= TEMA BACKGROUND GAMBAR DANIEL ================= */
 body {
     /* Memaksa gambar Daniel sebagai background layar penuh */
-    background-image: url('images/daniel-singa.jpg') !important; 
+    background-image: url('daniel-singa.jpg') !important; 
     background-size: cover !important;
     background-position: center !important;
     background-repeat: no-repeat !important;
